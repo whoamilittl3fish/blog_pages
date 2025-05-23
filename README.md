@@ -7,7 +7,8 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# [Blog by Github pages.](https://whoamilittl3fish.github.io/blog_pages/)
+# Blog by Github pages.
+[Link direct to Blog.](https://whoamilittl3fish.github.io/blog_pages/)
 </header>
 <footer>
 ---
